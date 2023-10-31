@@ -1,0 +1,114 @@
+
+*{
+    
+
+}
+
+
+.login{
+    margin-top: 4%;
+ display: inline-block;
+ height: 250px;
+ width: 400px;
+margin-left: 35%;
+background: none;
+box-shadow: 2px 3px 2px grey;
+border-radius: 20px;
+
+
+
+}
+body{
+    background-image: url("4.jpg");
+    background-size: cover;
+
+   
+}
+h1{
+    margin-top: 1%;
+    margin-left: 28%;
+    height: 20px;
+    width: 200px;
+    color: white;
+    
+
+}
+
+.input1{
+    margin-top: 5%;
+    margin-left: 28%;
+    height: 20px;
+    width: 200px;
+    background: transparent;
+    color: white;
+    border: none;
+    outline: none;
+
+    
+}
+
+
+.input2{
+    margin-top: 2%;
+    margin-left: 28%;
+    height: 20px;
+    width: 200px;
+    background: transparent;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+button{
+    margin-top: 1px;
+    margin-left: 40%;
+    color: black;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 75px;
+    height: 40px;
+    cursor: pointer;
+}
+.icon{
+    margin-top: 29px;
+}
+
+.icon2{
+    margin-top: 18px;
+}
+hr{
+    width: 200px;
+
+}
+
+i{
+    height: 100px;
+    width: 100px;
+}
+
+i{
+    color: white;
+    
+    margin-left: 285px;
+    position: absolute;
+    margin-top: 10px;
+    
+}
+marquee{
+    background-color: gray;
+    color: white;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+
+h2{
+    font-size: small;
+    margin-left: 89px;
+    color: white;
+
+
+}
+
+a{
+    color:blue;
+
+}
